@@ -1,0 +1,7 @@
+C:\Users\mafroukh\source\repos\PocNet\PocNet.Standard.Repos\bin\Debug\netstandard2.1\PocNet.Standard.Repos.deps.json
+C:\Users\mafroukh\source\repos\PocNet\PocNet.Standard.Repos\bin\Debug\netstandard2.1\PocNet.Standard.Repos.dll
+C:\Users\mafroukh\source\repos\PocNet\PocNet.Standard.Repos\bin\Debug\netstandard2.1\PocNet.Standard.Repos.pdb
+C:\Users\mafroukh\source\repos\PocNet\PocNet.Standard.Repos\obj\Debug\netstandard2.1\PocNet.Standard.Repos.AssemblyInfoInputs.cache
+C:\Users\mafroukh\source\repos\PocNet\PocNet.Standard.Repos\obj\Debug\netstandard2.1\PocNet.Standard.Repos.AssemblyInfo.cs
+C:\Users\mafroukh\source\repos\PocNet\PocNet.Standard.Repos\obj\Debug\netstandard2.1\PocNet.Standard.Repos.dll
+C:\Users\mafroukh\source\repos\PocNet\PocNet.Standard.Repos\obj\Debug\netstandard2.1\PocNet.Standard.Repos.pdb

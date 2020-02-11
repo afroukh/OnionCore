@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PocNet.Standard.Repos", "PocNet.Standard.Repos\PocNet.Standard.Repos.csproj", "{F4211990-5685-4508-9F6B-1D3AE179CFB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PocNet.infra.Core", "PocNet.infra.Core\PocNet.infra.Core.csproj", "{6E27849F-D4A7-4587-93ED-B9D9819B2A29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PocNet.Infra.NetFramework", "PocNet.Infra.NetFramework\PocNet.Infra.NetFramework.csproj", "{F9F67778-A032-4C6E-9A4A-E6AC8942E838}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PocNet.Web", "PocNet.Web\PocNet.Web.csproj", "{36743485-42EE-46E8-AEB5-8E279032089C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PocNet.Bootstrapper", "PocNet.Bootstrapper\PocNet.Bootstrapper.csproj", "{70057D51-D099-4100-AD9F-B13C51E296EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4211990-5685-4508-9F6B-1D3AE179CFB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4211990-5685-4508-9F6B-1D3AE179CFB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4211990-5685-4508-9F6B-1D3AE179CFB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4211990-5685-4508-9F6B-1D3AE179CFB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E27849F-D4A7-4587-93ED-B9D9819B2A29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E27849F-D4A7-4587-93ED-B9D9819B2A29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E27849F-D4A7-4587-93ED-B9D9819B2A29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E27849F-D4A7-4587-93ED-B9D9819B2A29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9F67778-A032-4C6E-9A4A-E6AC8942E838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9F67778-A032-4C6E-9A4A-E6AC8942E838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9F67778-A032-4C6E-9A4A-E6AC8942E838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9F67778-A032-4C6E-9A4A-E6AC8942E838}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36743485-42EE-46E8-AEB5-8E279032089C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36743485-42EE-46E8-AEB5-8E279032089C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36743485-42EE-46E8-AEB5-8E279032089C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36743485-42EE-46E8-AEB5-8E279032089C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70057D51-D099-4100-AD9F-B13C51E296EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70057D51-D099-4100-AD9F-B13C51E296EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70057D51-D099-4100-AD9F-B13C51E296EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70057D51-D099-4100-AD9F-B13C51E296EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59B84A37-D58B-46FE-AAC3-142AA1FDB9E0}
+	EndGlobalSection
+EndGlobal

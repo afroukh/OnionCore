@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PocNet.Bootstrapper\PocNet.Bootstrapper.csproj" />
+    <ProjectReference Include="..\PocNet.infra.Core\PocNet.infra.Core.csproj" />
+    <ProjectReference Include="..\PocNet.Standard.Repos\PocNet.Standard.Repos.csproj" />
+  </ItemGroup>
+
+
+
+</Project>

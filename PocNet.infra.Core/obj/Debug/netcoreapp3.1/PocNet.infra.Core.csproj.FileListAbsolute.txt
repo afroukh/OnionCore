@@ -1,0 +1,11 @@
+C:\Users\mafroukh\source\repos\PocNet\PocNet.infra.Core\obj\Debug\netcoreapp3.1\PocNet.infra.Core.csprojAssemblyReference.cache
+C:\Users\mafroukh\source\repos\PocNet\PocNet.infra.Core\obj\Debug\netcoreapp3.1\PocNet.infra.Core.AssemblyInfoInputs.cache
+C:\Users\mafroukh\source\repos\PocNet\PocNet.infra.Core\obj\Debug\netcoreapp3.1\PocNet.infra.Core.AssemblyInfo.cs
+C:\Users\mafroukh\source\repos\PocNet\PocNet.infra.Core\bin\Debug\netcoreapp3.1\PocNet.infra.Core.deps.json
+C:\Users\mafroukh\source\repos\PocNet\PocNet.infra.Core\bin\Debug\netcoreapp3.1\PocNet.infra.Core.dll
+C:\Users\mafroukh\source\repos\PocNet\PocNet.infra.Core\bin\Debug\netcoreapp3.1\PocNet.infra.Core.pdb
+C:\Users\mafroukh\source\repos\PocNet\PocNet.infra.Core\bin\Debug\netcoreapp3.1\PocNet.Standard.Repos.dll
+C:\Users\mafroukh\source\repos\PocNet\PocNet.infra.Core\bin\Debug\netcoreapp3.1\PocNet.Standard.Repos.pdb
+C:\Users\mafroukh\source\repos\PocNet\PocNet.infra.Core\obj\Debug\netcoreapp3.1\PocNet.infra.Core.csproj.CopyComplete
+C:\Users\mafroukh\source\repos\PocNet\PocNet.infra.Core\obj\Debug\netcoreapp3.1\PocNet.infra.Core.dll
+C:\Users\mafroukh\source\repos\PocNet\PocNet.infra.Core\obj\Debug\netcoreapp3.1\PocNet.infra.Core.pdb

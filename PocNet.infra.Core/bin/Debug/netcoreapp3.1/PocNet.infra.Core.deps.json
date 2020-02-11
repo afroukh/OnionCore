@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PocNet.infra.Core/1.0.0": {
+        "dependencies": {
+          "PocNet.Standard.Repos": "1.0.0"
+        },
+        "runtime": {
+          "PocNet.infra.Core.dll": {}
+        }
+      },
+      "PocNet.Standard.Repos/1.0.0": {
+        "runtime": {
+          "PocNet.Standard.Repos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PocNet.infra.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PocNet.Standard.Repos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

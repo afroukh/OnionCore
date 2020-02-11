@@ -1,0 +1,15 @@
+C:\Users\mafroukh\source\repos\PocNet\PocNet.Bootstrapper\bin\Debug\netcoreapp3.1\PocNet.Bootstrapper.deps.json
+C:\Users\mafroukh\source\repos\PocNet\PocNet.Bootstrapper\bin\Debug\netcoreapp3.1\PocNet.Bootstrapper.dll
+C:\Users\mafroukh\source\repos\PocNet\PocNet.Bootstrapper\obj\Debug\netcoreapp3.1\PocNet.Bootstrapper.AssemblyInfoInputs.cache
+C:\Users\mafroukh\source\repos\PocNet\PocNet.Bootstrapper\obj\Debug\netcoreapp3.1\PocNet.Bootstrapper.AssemblyInfo.cs
+C:\Users\mafroukh\source\repos\PocNet\PocNet.Bootstrapper\bin\Debug\netcoreapp3.1\PocNet.Bootstrapper.pdb
+C:\Users\mafroukh\source\repos\PocNet\PocNet.Bootstrapper\obj\Debug\netcoreapp3.1\PocNet.Bootstrapper.dll
+C:\Users\mafroukh\source\repos\PocNet\PocNet.Bootstrapper\obj\Debug\netcoreapp3.1\PocNet.Bootstrapper.pdb
+C:\Users\mafroukh\source\repos\PocNet\PocNet.Bootstrapper\bin\Debug\netcoreapp3.1\PocNet.infra.Core.dll
+C:\Users\mafroukh\source\repos\PocNet\PocNet.Bootstrapper\bin\Debug\netcoreapp3.1\PocNet.Infra.NetFramework.dll
+C:\Users\mafroukh\source\repos\PocNet\PocNet.Bootstrapper\bin\Debug\netcoreapp3.1\PocNet.Standard.Repos.dll
+C:\Users\mafroukh\source\repos\PocNet\PocNet.Bootstrapper\bin\Debug\netcoreapp3.1\PocNet.infra.Core.pdb
+C:\Users\mafroukh\source\repos\PocNet\PocNet.Bootstrapper\bin\Debug\netcoreapp3.1\PocNet.Infra.NetFramework.pdb
+C:\Users\mafroukh\source\repos\PocNet\PocNet.Bootstrapper\bin\Debug\netcoreapp3.1\PocNet.Standard.Repos.pdb
+C:\Users\mafroukh\source\repos\PocNet\PocNet.Bootstrapper\obj\Debug\netcoreapp3.1\PocNet.Bootstrapper.csprojAssemblyReference.cache
+C:\Users\mafroukh\source\repos\PocNet\PocNet.Bootstrapper\obj\Debug\netcoreapp3.1\PocNet.Bootstrapper.csproj.CopyComplete

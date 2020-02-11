@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="5.0.0" />
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="6.0.0" />
+    <PackageReference Include="NETStandard.Library" Version="2.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PocNet.infra.Core\PocNet.infra.Core.csproj" />
+    <ProjectReference Include="..\PocNet.Infra.NetFramework\PocNet.Infra.NetFramework.csproj" />
+    <ProjectReference Include="..\PocNet.Standard.Repos\PocNet.Standard.Repos.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,96 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PocNet.Standard.Repos/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/PocNet.Standard.Repos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PocNet.Standard.Repos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PocNet.Standard.Repos/1.0.0": {
+      "type": "project",
+      "path": "../PocNet.Standard.Repos/PocNet.Standard.Repos.csproj",
+      "msbuildProject": "../PocNet.Standard.Repos/PocNet.Standard.Repos.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "PocNet.Standard.Repos >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\mafroukh\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\mafroukh\\source\\repos\\PocNet\\PocNet.infra.Core\\PocNet.infra.Core.csproj",
+      "projectName": "PocNet.infra.Core",
+      "projectPath": "C:\\Users\\mafroukh\\source\\repos\\PocNet\\PocNet.infra.Core\\PocNet.infra.Core.csproj",
+      "packagesPath": "C:\\Users\\mafroukh\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mafroukh\\source\\repos\\PocNet\\PocNet.infra.Core\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\mafroukh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://srvtfs01:8080/tfs/SOQUIJ/_packaging/NugetSOQUIJ/nuget/v3/index.json": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\mafroukh\\source\\repos\\PocNet\\PocNet.Standard.Repos\\PocNet.Standard.Repos.csproj": {
+              "projectPath": "C:\\Users\\mafroukh\\source\\repos\\PocNet\\PocNet.Standard.Repos\\PocNet.Standard.Repos.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
